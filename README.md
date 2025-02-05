@@ -1,6 +1,9 @@
+![MasterHead](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)
 <h1 align="center">Hi 👋, I'm Charan AD</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif" alt="coding img">
+<br/>
+<img align="right" width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMwNml3N3pnenZmM2xobnRkc3cxdG84eDhzb3ZiZWI3bHBmYWI4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif"alt="coding img">
 - 🔭 I’m currently working on **software development course**
 
 - 🌱 I’m currently learning **Django framework**
