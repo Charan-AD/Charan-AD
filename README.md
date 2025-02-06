@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on **software development course**
 
 - 🌱 I’m currently learning **Django framework**
+- 💻 I use daily **.py, .sql**
 
 - 💬 Ask me about **python ,sql ,html ,css ,js**
 
